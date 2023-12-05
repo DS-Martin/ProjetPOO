@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\gamer\OneDrive\Desktop\Projet-POO-master\Projet POO\main.cpp(13,2): error C2653: 'MenuPrincipal' : n'est pas un nom de classe ni d'espace de noms
+C:\Users\gamer\OneDrive\Desktop\Projet-POO-master\Projet POO\main.cpp(13,18): error C2065: 'monFormulaire' : identificateur non déclaré
+C:\Users\gamer\OneDrive\Desktop\Projet-POO-master\Projet POO\main.cpp(14,21): error C2065: 'monFormulaire' : identificateur non déclaré
+  MenuPrincipal.cpp
+  Génération de code en cours...

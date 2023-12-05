@@ -1,0 +1,17 @@
+﻿  CreerClient.cpp
+C:\Users\gamer\OneDrive\Desktop\Projet-POO-master\Projet POO\CreerClient.h(539,85): error C2039: 'textBoxNom_TextChanged' n'est pas membre de 'ProjetPOO::P6new::CreerClient'
+C:\Users\gamer\OneDrive\Desktop\Projet-POO-master\Projet POO\CreerClient.h(21): message : voir la déclaration de 'ProjetPOO::P6new::CreerClient'
+C:\Users\gamer\OneDrive\Desktop\Projet-POO-master\Projet POO\CreerClient.h(539,1): error C2065: 'textBoxNom_TextChanged' : identificateur non déclaré
+C:\Users\gamer\OneDrive\Desktop\Projet-POO-master\Projet POO\CreerClient.h(539,1): error C3924: erreur dans l'argument #2 de l'appel du constructeur délégué 'System::EventHandler' :
+C:\Users\gamer\OneDrive\Desktop\Projet-POO-master\Projet POO\CreerClient.h(539,1): message : pointeur attendu vers la fonction membre
+C:\Users\gamer\OneDrive\Desktop\Projet-POO-master\Projet POO\CreerClient.h(709,31): error C2039: 'textBox1' n'est pas membre de 'ProjetPOO::P6new::CreerClient'
+C:\Users\gamer\OneDrive\Desktop\Projet-POO-master\Projet POO\CreerClient.h(21): message : voir la déclaration de 'ProjetPOO::P6new::CreerClient'
+  MenuPrincipal.cpp
+C:\Users\gamer\OneDrive\Desktop\Projet-POO-master\Projet POO\CreerClient.h(539,85): error C2039: 'textBoxNom_TextChanged' n'est pas membre de 'ProjetPOO::P6new::CreerClient'
+C:\Users\gamer\OneDrive\Desktop\Projet-POO-master\Projet POO\CreerClient.h(21): message : voir la déclaration de 'ProjetPOO::P6new::CreerClient'
+C:\Users\gamer\OneDrive\Desktop\Projet-POO-master\Projet POO\CreerClient.h(539,1): error C2065: 'textBoxNom_TextChanged' : identificateur non déclaré
+C:\Users\gamer\OneDrive\Desktop\Projet-POO-master\Projet POO\CreerClient.h(539,1): error C3924: erreur dans l'argument #2 de l'appel du constructeur délégué 'System::EventHandler' :
+C:\Users\gamer\OneDrive\Desktop\Projet-POO-master\Projet POO\CreerClient.h(539,1): message : pointeur attendu vers la fonction membre
+C:\Users\gamer\OneDrive\Desktop\Projet-POO-master\Projet POO\CreerClient.h(709,31): error C2039: 'textBox1' n'est pas membre de 'ProjetPOO::P6new::CreerClient'
+C:\Users\gamer\OneDrive\Desktop\Projet-POO-master\Projet POO\CreerClient.h(21): message : voir la déclaration de 'ProjetPOO::P6new::CreerClient'
+  Génération de code en cours...

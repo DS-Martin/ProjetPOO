@@ -1,0 +1,6 @@
+C:\Users\gamer\OneDrive\Desktop\Projet-POO-master\Projet POO\Debug\ProjetPOO.AfficherClient.resources
+C:\Users\gamer\OneDrive\Desktop\Projet-POO-master\Projet POO\Debug\ProjetPOO.CreerClient.resources
+C:\Users\gamer\OneDrive\Desktop\Projet-POO-master\Projet POO\Debug\ProjetPOO.MenuPrincipal.resources
+C:\Users\gamer\OneDrive\Desktop\Projet-POO-master\Projet POO\Debug\ProjetPOO.ModifierClient.resources
+C:\Users\gamer\OneDrive\Desktop\Projet-POO-master\Projet POO\Debug\ProjetPOO.SupprimerClient.resources
+C:\Users\gamer\OneDrive\Desktop\Projet-POO-master\Projet POO\Debug\Projet POO.vcxproj.GenerateResource.cache
